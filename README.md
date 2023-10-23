@@ -43,9 +43,10 @@ Finally, the details were added to enhance user experience
   + Color scheme was set
   + User feedback such as SnackBar was implemented
   + Directions, feedback, and other important text was added
+  + Created Documentation and Code Comments
 
+The final APK can be found here: https://drive.google.com/file/d/1cSJN1a91FD1JUTOi2VzKSCXEWOO8eyDT/view?usp=share_link
 
-The final APK can be found or here
 
 Thank you for reviewing the Bonus Store App!
 Morris Perry
